@@ -3,7 +3,7 @@
 #### Web Developer
 As many web development projects as I will make in my life,i will work with honesty and devotion in sha allah.
 
-![Uploading image.png…]()
+
 Skills:  REACT / JS / HTML / CSS/PHP
 
 - 🔭 I’m currently working on Youtobe 
